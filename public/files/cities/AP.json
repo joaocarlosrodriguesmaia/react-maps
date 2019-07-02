@@ -1,0 +1,18 @@
+[
+  {"id": "AP", "nome": "Amapá"},
+  {"id": "AP", "nome": "Calçoene"},
+  {"id": "AP", "nome": "Cutias"},
+  {"id": "AP", "nome": "Ferreira Gomes"},
+  {"id": "AP", "nome": "Itaubal"},
+  {"id": "AP", "nome": "Laranjal do Jari"},
+  {"id": "AP", "nome": "Macapá", "capital": true},
+  {"id": "AP", "nome": "Mazagão"},
+  {"id": "AP", "nome": "Oiapoque"},
+  {"id": "AP", "nome": "Pedra Branca do Amapari"},
+  {"id": "AP", "nome": "Porto Grande"},
+  {"id": "AP", "nome": "Pracuúba"},
+  {"id": "AP", "nome": "Santana"},
+  {"id": "AP", "nome": "Serra do Navio"},
+  {"id": "AP", "nome": "Tartarugalzinho"},
+  {"id": "AP", "nome": "Vitória do Jari"}
+]
